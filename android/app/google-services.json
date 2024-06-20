@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910771032127",
+    "project_id": "synctours-83f79",
+    "storage_bucket": "synctours-83f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910771032127:android:079caac3967b115bd7288a",
+        "android_client_info": {
+          "package_name": "com.synctours.bundleId"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl-UTXvYwWbpJ_KBoMIqDeSH571btEUYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
